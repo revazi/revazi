@@ -15,6 +15,7 @@ I work across backend systems, developer experience, and practical AI integratio
 
 - **[pi-fallow](https://github.com/revazi/pi-fallow)** — TypeScript extension that brings Fallow codebase intelligence into the Pi coding agent through agent tools and slash commands.
 - **[pi-career](https://github.com/revazi/pi-career)** — Self-contained Pi extension and Agent Skill for deterministic résumé analysis, ATS checks and job matching with bundled native runtimes.
+- **[pi-tmux-orchestrator](https://github.com/revazi/pi-tmux-orchestrator)** — Pi extension, Agent Skill and dependency-free Python CLI for coordinating implementers, reviewers and optional specialists in monitorable tmux grids.
 - **[career-core](https://github.com/revazi/career-core)** — Rust core and CLI for deterministic, explainable résumé analysis and job matching, with versioned JSON contracts and Swift bindings.
 - **[django-asklens](https://github.com/revazi/django-asklens)** — Python/Django package for safe natural-language querying over registered models using validated LLM query plans and read-only ORM execution.
 - **[tasklight](https://github.com/revazi/tasklight)** — Go CLI for running long developer tasks and getting notified when they finish, fail, or need attention.
