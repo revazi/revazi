@@ -27,6 +27,7 @@ I work across backend systems, developer experience, and practical AI integratio
 - **Bgera** (`bgera.app`) — local-first macOS music library for audio analysis, similarity search and playlist building. Previously `musicidx`.
 - **Pi Deck** — global session manager and remote companion for the Pi coding agent.
 - **[retreat.day](https://retreat.day)** — agent-assisted publishing platform for thoughtful content about retreats, mindfulness and self-care.
+- **[staub.studio](https://staub.studio)** — website and event archive for STAUB, a Berlin electronic music event series.
 - **AskLens** — product direction around natural-language data exploration for Django applications, currently published as [`django-asklens`](https://github.com/revazi/django-asklens).
 
 Some of these projects are in active development and will be public when they’re useful beyond my own experiments.
