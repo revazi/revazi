@@ -15,6 +15,7 @@ I work across backend systems, developer experience, and practical AI integratio
 
 - **[pi-reads](https://github.com/revazi/pi-reads)** — Pi package for faithful article capture, cited digests and syntheses, Obsidian/PDF/EPUB export, and Kindle delivery.
 - **[pi-fallow](https://github.com/revazi/pi-fallow)** — TypeScript extension that brings Fallow codebase intelligence into the Pi coding agent through agent tools and slash commands.
+- **[pi-jscpd](https://github.com/revazi/pi-jscpd)** — Pi package providing a quiet, read-only, polyglot duplication guardrail powered by jscpd.
 - **[pi-career](https://github.com/revazi/pi-career)** — Self-contained Pi extension and Agent Skill for deterministic résumé analysis, ATS checks and job matching with bundled native runtimes.
 - **[pi-tmux-orchestrator](https://github.com/revazi/pi-tmux-orchestrator)** — Pi extension, Agent Skill and dependency-free Python CLI for coordinating implementers, reviewers and optional specialists in monitorable tmux grids.
 - **[career-core](https://github.com/revazi/career-core)** — Rust core and CLI for deterministic, explainable résumé analysis and job matching, with versioned JSON contracts and Swift bindings.
